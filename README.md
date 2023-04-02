@@ -1,6 +1,6 @@
 # HR-Analytics-DashBoard
 
-**
+
 **Aim:**
  To analyze the attrition rate of Employees.
  
@@ -15,3 +15,5 @@
   
   
   https://public.tableau.com/app/profile/sangeetha5656/viz/HRAnalyticsDashBoard_16802745422170/HRANALYTICSDASHBOARD?publish=yes
+
+![HR Analytics Dashboard](https://user-images.githubusercontent.com/126981936/229379889-2fa6d72f-8f9d-410a-8bb4-2a73082421d1.jpg)
